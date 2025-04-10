@@ -1,2 +1,2 @@
-# Star-Trek
+# Star-Trek.
 By. Matthias Hurrle
